@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-#instagram subscribe to me, instagram : __daniel_ru__
+#subscribe to me, instagram : __daniel_ru__
 import random
 import socket
 import threading
